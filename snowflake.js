@@ -1,6 +1,6 @@
 // making random sized snowflakes
 function getRandomSize() {
-  let r = randomGaussian() * 36;
+  let r = randomGaussian() * 20;
   return abs(r);
 }
 
