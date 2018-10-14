@@ -5,3 +5,5 @@
 - For each object, making it move/fall from top like snowfall
 - Taking randomly sized snow objects
 - Following the tutorial of Daniel Shiffman and p5.js website
+
+![](https://github.com/Priya67/Snowflakes/blob/master/snowflake.gif)
